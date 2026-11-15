@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published_at": "2026-11-15T22:48:59Z",
+ "published_at": "2026-11-15T22:52:50Z",
  "licenses": [
   {
    "id": "92f8f320c57c406585e328e3e32273f4123c33ef680005e12eb8529d0f36d175",
@@ -8,10 +8,15 @@
    "status": "active"
   },
   {
+   "id": "73c5b022f6b06f1948c38f03200558da41b707bbb4590fe84aaf42a40617ab1f",
+   "expires_at": "2026-11-16T15:00:00Z",
+   "status": "active"
+  },
+  {
    "id": "9b2998c0033f68ed4de8dbccdd1fa030b21a30ff5333a9f62acc053dfab38932",
-   "expires_at": "2026-11-30T14:59:59Z",
+   "expires_at": "2026-11-15T15:00:00Z",
    "status": "active"
   }
  ],
- "signature": "64nfpr3lsSDeq/Hwa5NcTsGSRaLL+CD9h6D5I2glU9Mq2iyEF+5ehdv7tIaJfT6xazWggpwY7+21wz/hbAvXDw=="
+ "signature": "ZU61BA2O1/S8U/Ln3PHbKDSk1AdWGIHovFtS5ho/cdACwQ0MAR+lL2Im59qCw4TQ20gLl+Db2GxiJo1D93SUAw=="
 }
