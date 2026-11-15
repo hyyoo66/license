@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published_at": "2026-11-15T00:49:53Z",
+ "published_at": "2026-11-15T00:50:29Z",
  "licenses": [
   {
    "id": "92f8f320c57c406585e328e3e32273f4123c33ef680005e12eb8529d0f36d175",
@@ -9,9 +9,9 @@
   },
   {
    "id": "9b2998c0033f68ed4de8dbccdd1fa030b21a30ff5333a9f62acc053dfab38932",
-   "expires_at": "2026-11-16T00:49:52Z",
+   "expires_at": "2026-11-15T15:00:00Z",
    "status": "active"
   }
  ],
- "signature": "M9uZG6G401nKMJiNqt92buJCL2eRHHj6SAnEU2MqcchkdODX9OywUJuHPz/juJcH82O8J3wSYC9oEJkgIjSXDg=="
+ "signature": "gr9dnqT8cnbAx8zEhrrZiYK32fp1ypElpSi9SGlNaSt4p421FhvVTLw4+EepNSho8Hb6vd5Q1ojHioeA2Aq6Aw=="
 }
