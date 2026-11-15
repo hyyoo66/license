@@ -1,0 +1,12 @@
+{
+ "format": 1,
+ "published_at": "2026-11-15T00:19:45Z",
+ "licenses": [
+  {
+   "id": "92f8f320c57c406585e328e3e32273f4123c33ef680005e12eb8529d0f36d175",
+   "expires_at": "2026-11-15T02:19:43Z",
+   "status": "active"
+  }
+ ],
+ "signature": "f211TSA8kIGnUTKtKAFpsRKGNvkCuHroGvKITQtglcuCiiIdeqg9f1HJoTC/E06/+HdqdOv4jBViUOG32x/jAw=="
+}
