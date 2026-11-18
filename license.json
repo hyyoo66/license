@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published_at": "2026-11-17T22:03:46Z",
+ "published_at": "2026-11-18T01:13:11Z",
  "licenses": [
   {
    "id": "92f8f320c57c406585e328e3e32273f4123c33ef680005e12eb8529d0f36d175",
@@ -13,7 +13,8 @@
    "status": "active",
    "super": true,
    "site": [
-    "629c572e493f430a42755704"
+    "629c572e493f430a42755704",
+    "d2a53305846662bf6f2a0060"
    ]
   },
   {
@@ -51,5 +52,5 @@
    "status": "active"
   }
  ],
- "signature": "u3ey2D7aY1Ago3rTT0WyCovcb/UG6M5ZPELzD2oWpXi78V2oLC5eL8jIsQlDw/uBHlcfJveqpT1NGHtb4YMRBQ=="
+ "signature": "B1j+WjFNT7zeDjFy6ykJ+m5ZgXhumHKl/0HvnwEFdcEQTSdmHR1ywNVRIeWcW9lnSuszx5yFNJamLBV2d/Q5Aw=="
 }
