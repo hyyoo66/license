@@ -1,12 +1,7 @@
 {
  "format": 1,
- "published_at": "2026-11-18T06:04:19Z",
+ "published_at": "2026-11-18T06:05:17Z",
  "licenses": [
-  {
-   "id": "92f8f320c57c406585e328e3e32273f4123c33ef680005e12eb8529d0f36d175",
-   "expires_at": "2026-11-15T02:19:43Z",
-   "status": "active"
-  },
   {
    "id": "a88a951e1fbc8532b5126aa3022ee1c8c25f1972c6939b12214729ffba4f428e",
    "expires_at": "2026-11-20T15:00:00Z",
@@ -20,41 +15,7 @@
     "d2a53305846662bf6f2a0060",
     "81de40b284f756fabe1d34c0"
    ]
-  },
-  {
-   "id": "9b2998c0033f68ed4de8dbccdd1fa030b21a30ff5333a9f62acc053dfab38932",
-   "expires_at": "2026-11-15T15:00:00Z",
-   "status": "active"
-  },
-  {
-   "id": "73c5b022f6b06f1948c38f03200558da41b707bbb4590fe84aaf42a40617ab1f",
-   "expires_at": "2026-11-16T15:00:00Z",
-   "status": "active",
-   "site": [
-    "bed17cced6c2d2d5861a254e"
-   ]
-  },
-  {
-   "id": "5420598cb9bb00d88ece9f35a10f7754a973b4f5cf97e661b28283b6478c566c",
-   "expires_at": "2026-11-17T15:00:00Z",
-   "status": "active",
-   "site": [
-    "8c286c1d0f6502a57fce878d"
-   ]
-  },
-  {
-   "id": "179be8c6f9e561a05f306438b61702dda8ef273e6839568efee435390f40000c",
-   "expires_at": "2026-11-30T14:59:59Z",
-   "status": "revoked",
-   "site": [
-    "ed3fcf963fe61287ece86fad"
-   ]
-  },
-  {
-   "id": "bd727c5beb7f144f5c83424290e1a9bf80292a8022771e8e638047a2e4b3bb5d",
-   "expires_at": "2026-11-17T15:00:00Z",
-   "status": "active"
   }
  ],
- "signature": "iQtthXdqNkRJQSQdQg7pJhg2E1lTRMf34P+NTDaacFeW3bkGsC8A5uQ+8sxSLx5EpY6noTpQcbnnGbmeTj/UCg=="
+ "signature": "rLxhk9NK9oapPobI6nzF9iee73JMO052OBIbkxI8NLQkDW/vfgv6RMhFU3gHLB0LU/z4j4g8epcEjxO042HEAQ=="
 }
