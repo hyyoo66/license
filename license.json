@@ -1,12 +1,25 @@
 {
  "format": 1,
- "published_at": "2026-11-18T06:05:17Z",
+ "published_at": "2026-11-18T23:29:15Z",
  "licenses": [
+  {
+   "id": "e44ca8299715a4856833370d277ba8796493835a023561f871efd1448c64a899",
+   "expires_at": "2026-11-21T23:29:07Z",
+   "status": "active",
+   "super": true,
+   "pc": [
+    "742120a7830f8724d73e5d68"
+   ],
+   "site": [
+    "0a24d14680915ce29eed0537",
+    "103d7c93db783fcf2434b547",
+    "1e20d265be2ce18a811ebfb9"
+   ]
+  },
   {
    "id": "a88a951e1fbc8532b5126aa3022ee1c8c25f1972c6939b12214729ffba4f428e",
    "expires_at": "2026-11-20T15:00:00Z",
    "status": "active",
-   "super": true,
    "pc": [
     "27090408ab4d8373918d879f"
    ],
@@ -17,5 +30,5 @@
    ]
   }
  ],
- "signature": "rLxhk9NK9oapPobI6nzF9iee73JMO052OBIbkxI8NLQkDW/vfgv6RMhFU3gHLB0LU/z4j4g8epcEjxO042HEAQ=="
+ "signature": "rlYiAEhJ7emhJEDhEOIjZAcYR2GCDmi5an+ytLLxZ+FdkNRN4Ohe+WY9teET+/rTZszgL0F5lpCDqdXeVpDGDw=="
 }
