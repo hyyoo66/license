@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published_at": "2026-11-20T04:51:59Z",
+ "published_at": "2026-11-20T10:04:24Z",
  "licenses": [
   {
    "id": "e44ca8299715a4856833370d277ba8796493835a023561f871efd1448c64a899",
@@ -11,8 +11,9 @@
     "742120a7830f8724d73e5d68"
    ],
    "wk": [
-    "09423f50004f7f595ebe9d375c2de339bc05a8d6fd2846a1e65387f0f3228225d0fe2f486bbd4bc68ce7339ac0086d39cd5bb08dd75b8b634049bd22"
-   ]
+    "63eaabd2620b83b0dae093a1b136c32de0bd420b1a6a874058a3ada1590ba9fb2f46f2a68ed9ae83a7324ee2a3a25cf22d1dd7b16480b4a395ca5a08"
+   ],
+   "cn": "bfaa9ce470f01c9092d38676b0a16891fd21d353e672baafd9132692cd15cf58ca23e16c"
   },
   {
    "id": "a88a951e1fbc8532b5126aa3022ee1c8c25f1972c6939b12214729ffba4f428e",
@@ -27,9 +28,10 @@
     "81de40b284f756fabe1d34c0"
    ],
    "wk": [
-    "f99e4fcddd338f21d181b4cd98caac176e13aab6f2200c0968b0c18a6636ecb086b8965369ff0af0be0a338c89bfafcd63e69be6d05c04dcfb17778f"
-   ]
+    "d0ab62d064f0828947e6f87c7fc5f286a24a6671364d0175c80f4cf28536dc77ab24e28c3bd6a66b88ebbf6a298d7450f5424e9a264a5b2c26333279"
+   ],
+   "cn": "5ab4afe4f2abd0559142db33fe11039b03f1aa3995f550138d000a2a9f5dfbe61adb9b27"
   }
  ],
- "signature": "ygRpP9RtAZCRMbKWs5KuGnPwF4t72nP1JSUOP0qLr5krcdcAXcEcPdGTm/qOAvkkFab9bdnwgC1awIJ3rIHcBQ=="
+ "signature": "x92BuTlFO8tLom2vbmfVkWACQyR3fSL5r4O8nGe20DX/dSPUsoW+dvMfCHuZh701/yjshB6OvfCEQONXlnMhBA=="
 }
