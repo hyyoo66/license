@@ -1,6 +1,6 @@
 {
  "format": 1,
- "published_at": "2026-11-18T23:31:35Z",
+ "published_at": "2026-11-20T04:51:59Z",
  "licenses": [
   {
    "id": "e44ca8299715a4856833370d277ba8796493835a023561f871efd1448c64a899",
@@ -9,6 +9,9 @@
    "super": true,
    "pc": [
     "742120a7830f8724d73e5d68"
+   ],
+   "wk": [
+    "09423f50004f7f595ebe9d375c2de339bc05a8d6fd2846a1e65387f0f3228225d0fe2f486bbd4bc68ce7339ac0086d39cd5bb08dd75b8b634049bd22"
    ]
   },
   {
@@ -22,8 +25,11 @@
     "629c572e493f430a42755704",
     "d2a53305846662bf6f2a0060",
     "81de40b284f756fabe1d34c0"
+   ],
+   "wk": [
+    "f99e4fcddd338f21d181b4cd98caac176e13aab6f2200c0968b0c18a6636ecb086b8965369ff0af0be0a338c89bfafcd63e69be6d05c04dcfb17778f"
    ]
   }
  ],
- "signature": "Pf6ja0Xzq4CC0P2PSmHg63r/qg+4XRlonNRxLjKByfQafHcgzUBNw52+hVASoi5ri+44EtN8o8baJkOUIHOeBQ=="
+ "signature": "ygRpP9RtAZCRMbKWs5KuGnPwF4t72nP1JSUOP0qLr5krcdcAXcEcPdGTm/qOAvkkFab9bdnwgC1awIJ3rIHcBQ=="
 }
